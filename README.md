@@ -1,7 +1,7 @@
 # Tugas Praktikum 3
 ## Latihan 1 : latihan1.py
 ### 1. Penjelasan Program
-Program ini digunakan untuk menampilkan bilanga acak yang kurang dari o.5.
+Program ini digunakan untuk menampilkan bilanga acak yang kurang dari o.5 secara acak.
 ### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :
 
