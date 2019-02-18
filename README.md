@@ -2,6 +2,7 @@
 ## Latihan 1 : latihan1.py
 ### 1. Penjelasan Program
 Program ini digunakan untuk menampilkan bilanga acak yang kurang dari o.5 secara acak.
+<a href="https://github.com/refhaldo/labpy03/blob/master/latihan1.py">latihan1.py</a>
 ### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :  
 
