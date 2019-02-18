@@ -30,6 +30,9 @@ Berikut ini adalah kode dari program tersebut :
 	        if a==0:
 	         break
         print ('Bilangan terbesar adalah:',max)
+
+**Keterangan**
+Program diatas akan berhenti melakukan inputan apabila kita menginputkan angka 0.
 ### 3. Eksekusi Program
 ![image](https://github.com/refhaldo/labpy03/blob/master/latihan2.png?raw=true)
 ## Tugas Praktikum 3 : program1.py
