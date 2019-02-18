@@ -15,7 +15,7 @@ Berikut ini adalah kode dari program tersebut :
         print ('data ke:',a,'=>',x)
         print('Selesai')
 ### 3. Eksekusi Program
-
+![image](https://github.com/refhaldo/labpy03/blob/master/latihan1.png?raw=true)
 ## Latihan 2 : latihan2.py
 ### 1.Penjelasan Program
 Program ini digunakan untuk mencari angka terbesar dari angka yang di inputkan.
@@ -31,7 +31,7 @@ Berikut ini adalah kode dari program tersebut :
 	         break
         print ('Bilangan terbesar adalah:',max)
 ### 3. Eksekusi Program
-
+![image](https://github.com/refhaldo/labpy03/blob/master/latihan2.png?raw=true)
 ## Tugas Praktikum 3 : program1.py
 ### 1.Penjelasan Program
 Program ini digunakan untuk menentukan laba selama 8 bulan dari seorang pengusaha yang memulai usahanya dengan modal awal 100 juta, bila pada bulan pertama dan kedua belum mendapatkan laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%.
@@ -64,7 +64,7 @@ Berikut ini adalah kode dari program tersebut :
 *if(x==8):* adalah perintah untuk menentukan laba bulan ke-8
 *total = b+b+c+c+d+d+d+e* adalah perintah untuk menghitung total dari semua laba
 ###  3. Eksekusi Program
-
+![image](https://github.com/refhaldo/labpy03/blob/master/program1.png?raw=true)
 # PENUTUP
 Sekian penjelasan dari ke-tiga program diatas.
 **TERIMAKASIH**
