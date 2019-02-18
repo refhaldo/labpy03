@@ -4,6 +4,7 @@
 Program ini digunakan untuk menampilkan bilanga acak yang kurang dari o.5 secara acak.
 ### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :  
+
         print ('Masukan nilai N: 5')
         import random
         jumlah = 5
@@ -20,6 +21,7 @@ Berikut ini adalah kode dari program tersebut :
 Program ini digunakan untuk mencari angka terbesar dari angka yang di inputkan.
 ### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :  
+
         max=0
         while True:
 	        a=int(input('Masukan bilangan:'))
@@ -38,6 +40,7 @@ Program diatas akan berhenti melakukan inputan apabila kita menginputkan angka 0
 Program ini digunakan untuk menentukan laba selama 8 bulan dari seorang pengusaha yang memulai usahanya dengan modal awal 100 juta, bila pada bulan pertama dan kedua belum mendapatkan laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%.
 ### 2.Kode Program
 Berikut ini adalah kode dari program tersebut :  
+
         a = 100000000
         for x in range(1,9):
 	        if(x>=1 and x<=2):
