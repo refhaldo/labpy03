@@ -1,8 +1,8 @@
-## Tugas Praktikum 3
-### Latihan 1 : latihan1.py
-# 1. Penjelasan Program
+# Tugas Praktikum 3
+## Latihan 1 : latihan1.py
+### 1. Penjelasan Program
 Program ini digunakan untuk menampilkan bilanga acak yang kurang dari o.5.
-# 2. Kode Program
+### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :
 
         print ('Masukan nilai N: 5')
@@ -14,12 +14,12 @@ Berikut ini adalah kode dari program tersebut :
           a += 1
         print ('data ke:',a,'=>',x)
         print('Selesai')
-# 3. Eksekusi Program
+### 3. Eksekusi Program
 
-### Latihan 2 : latihan2.py
-# 1.Penjelasan Program
+## Latihan 2 : latihan2.py
+### 1.Penjelasan Program
 Program ini digunakan untuk mencari angka terbesar dari angka yang di inputkan.
-# 2. Kode Program
+### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :
 
         max=0
@@ -30,12 +30,12 @@ Berikut ini adalah kode dari program tersebut :
 	        if a==0:
 	         break
         print ('Bilangan terbesar adalah:',max)
-# 3. Eksekusi Program
+### 3. Eksekusi Program
 
-### Tugas Praktikum 3 : program1.py
-# 1.Penjelasan Program
+## Tugas Praktikum 3 : program1.py
+### 1.Penjelasan Program
 Program ini digunakan untuk menentukan laba selama 8 bulan dari seorang pengusaha yang memulai usahanya dengan modal awal 100 juta, bila pada bulan pertama dan kedua belum mendapatkan laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%.
-# 2.Kode Program
+### 2.Kode Program
 Berikut ini adalah kode dari program tersebut :
 
         a = 100000000
@@ -63,8 +63,8 @@ Berikut ini adalah kode dari program tersebut :
 *if(x>=5 and x<=7):* adalah perintah untuk menentukan laba bulan ke-5, ke-6, dan ke-7
 *if(x==8):* adalah perintah untuk menentukan laba bulan ke-8
 *total = b+b+c+c+d+d+d+e* adalah perintah untuk menghitung total dari semua laba
-# 3. Eksekusi Program
+###  3. Eksekusi Program
 
-### PENUTUP
+# PENUTUP
 Sekian penjelasan dari ke-tiga program diatas.
 **TERIMAKASIH**
