@@ -2,6 +2,7 @@
 ## Latihan 1 : latihan1.py
 ### 1. Penjelasan Program
 Program ini digunakan untuk menampilkan bilanga acak yang kurang dari o.5 secara acak.  
+
 ( https://github.com/refhaldo/labpy03/blob/master/latihan1.py )  
 ### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :  
@@ -20,6 +21,7 @@ Berikut ini adalah kode dari program tersebut :
 ## Latihan 2 : latihan2.py
 ### 1.Penjelasan Program
 Program ini digunakan untuk mencari angka terbesar dari angka yang di inputkan.  
+
 ( https://github.com/refhaldo/labpy03/blob/master/latihan2.py )  
 ### 2. Kode Program
 Berikut ini adalah kode dari program tersebut :  
@@ -40,6 +42,7 @@ Program diatas akan berhenti melakukan inputan apabila kita menginputkan angka 0
 ## Tugas Praktikum 3 : program1.py
 ### 1.Penjelasan Program
 Program ini digunakan untuk menentukan laba selama 8 bulan dari seorang pengusaha yang memulai usahanya dengan modal awal 100 juta, bila pada bulan pertama dan kedua belum mendapatkan laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%.  
+
 ( https://github.com/refhaldo/labpy03/blob/master/program1.py )
 ### 2.Kode Program
 Berikut ini adalah kode dari program tersebut :  
