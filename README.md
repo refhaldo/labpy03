@@ -56,13 +56,13 @@ Berikut ini adalah kode dari program tersebut :
         print('Total laba adalah:', total)
 
 **Keterangan**
-*a = 100000000** adalah keterangan modal
-*for x in range(1,9):* adalah list dari laba yang didapat selama 8 bulan
-*if(x>=1 and x<=2):* adalah perintah untuk menentukan laba bulan ke-1 dan ke-2
-*if(x>=3 and x<=4):* adalah perintah untuk menentukan laba bulan ke-3 dan ke-4
-*if(x>=5 and x<=7):* adalah perintah untuk menentukan laba bulan ke-5, ke-6, dan ke-7
-*if(x==8):* adalah perintah untuk menentukan laba bulan ke-8
-*total = b+b+c+c+d+d+d+e* adalah perintah untuk menghitung total dari semua laba
+        *a = 100000000** adalah keterangan modal
+        *for x in range(1,9):* adalah list dari laba yang didapat selama 8 bulan
+        *if(x>=1 and x<=2):* adalah perintah untuk menentukan laba bulan ke-1 dan ke-2
+        *if(x>=3 and x<=4):* adalah perintah untuk menentukan laba bulan ke-3 dan ke-4
+        *if(x>=5 and x<=7):* adalah perintah untuk menentukan laba bulan ke-5, ke-6, dan ke-7
+        *if(x==8):* adalah perintah untuk menentukan laba bulan ke-8
+        *total = b+b+c+c+d+d+d+e* adalah perintah untuk menghitung total dari semua laba
 ###  3. Eksekusi Program
 ![image](https://github.com/refhaldo/labpy03/blob/master/program1.png?raw=true)
 # PENUTUP
