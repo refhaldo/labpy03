@@ -66,6 +66,5 @@ Berikut ini adalah kode dari program tersebut :
 ###  3. Eksekusi Program
 ![image](https://github.com/refhaldo/labpy03/blob/master/program1.png?raw=true)
 # PENUTUP
-Sekian penjelasan dari ke-tiga program diatas.
-
+Sekian penjelasan dari ke-tiga program diatas.  
 **TERIMAKASIH**
